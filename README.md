@@ -1,2 +1,2 @@
 # tmp
-##Just learning to use git command
+Just learning to use git command
