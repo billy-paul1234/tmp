@@ -1,2 +1,3 @@
 # tmp
-Just learning to use git command
+Just learning how to use git for version control
+
